@@ -1,0 +1,73 @@
+[16-Nov-2024 12:13:58 UTC] PHP Warning:  Undefined variable $spreadsheetId in /Users/pawel/www/haz25/index.php on line 5
+[16-Nov-2024 12:13:58 UTC] PHP Stack trace:
+[16-Nov-2024 12:13:58 UTC] PHP   1. {main}() /Users/pawel/www/haz25/index.php:0
+[16-Nov-2024 12:13:58 UTC] PHP   2. getDataRaw() /Users/pawel/www/haz25/index.php:14
+[16-Nov-2024 12:13:58 UTC] PHP Warning:  Undefined variable $apiKey in /Users/pawel/www/haz25/index.php on line 6
+[16-Nov-2024 12:13:58 UTC] PHP Stack trace:
+[16-Nov-2024 12:13:58 UTC] PHP   1. {main}() /Users/pawel/www/haz25/index.php:0
+[16-Nov-2024 12:13:58 UTC] PHP   2. getDataRaw() /Users/pawel/www/haz25/index.php:14
+[16-Nov-2024 12:13:58 UTC] PHP Warning:  Undefined property: stdClass::$values in /Users/pawel/www/haz25/index.php on line 14
+[16-Nov-2024 12:13:58 UTC] PHP Stack trace:
+[16-Nov-2024 12:13:58 UTC] PHP   1. {main}() /Users/pawel/www/haz25/index.php:0
+[16-Nov-2024 12:13:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/pawel/www/haz25/content.php on line 11
+[16-Nov-2024 12:13:58 UTC] PHP Stack trace:
+[16-Nov-2024 12:13:58 UTC] PHP   1. {main}() /Users/pawel/www/haz25/index.php:0
+[16-Nov-2024 12:13:58 UTC] PHP   2. include() /Users/pawel/www/haz25/index.php:15
+[16-Nov-2024 12:13:58 UTC] PHP   3. sortData($data = NULL) /Users/pawel/www/haz25/content.php:67
+[16-Nov-2024 12:13:58 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /Users/pawel/www/haz25/content.php:215
+Stack trace:
+#0 /Users/pawel/www/haz25/index.php(15): include()
+#1 {main}
+  thrown in /Users/pawel/www/haz25/content.php on line 215
+[16-Nov-2024 12:14:12 UTC] PHP Warning:  Undefined variable $spreadsheetId in /Users/pawel/www/haz25/index.php on line 5
+[16-Nov-2024 12:14:12 UTC] PHP Stack trace:
+[16-Nov-2024 12:14:12 UTC] PHP   1. {main}() /Users/pawel/www/haz25/index.php:0
+[16-Nov-2024 12:14:12 UTC] PHP   2. getDataRaw() /Users/pawel/www/haz25/index.php:14
+[16-Nov-2024 12:14:12 UTC] PHP Warning:  Undefined variable $apiKey in /Users/pawel/www/haz25/index.php on line 6
+[16-Nov-2024 12:14:12 UTC] PHP Stack trace:
+[16-Nov-2024 12:14:12 UTC] PHP   1. {main}() /Users/pawel/www/haz25/index.php:0
+[16-Nov-2024 12:14:12 UTC] PHP   2. getDataRaw() /Users/pawel/www/haz25/index.php:14
+[16-Nov-2024 12:14:13 UTC] PHP Warning:  Undefined property: stdClass::$values in /Users/pawel/www/haz25/index.php on line 14
+[16-Nov-2024 12:14:13 UTC] PHP Stack trace:
+[16-Nov-2024 12:14:13 UTC] PHP   1. {main}() /Users/pawel/www/haz25/index.php:0
+[16-Nov-2024 12:14:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/pawel/www/haz25/content.php on line 11
+[16-Nov-2024 12:14:13 UTC] PHP Stack trace:
+[16-Nov-2024 12:14:13 UTC] PHP   1. {main}() /Users/pawel/www/haz25/index.php:0
+[16-Nov-2024 12:14:13 UTC] PHP   2. include() /Users/pawel/www/haz25/index.php:15
+[16-Nov-2024 12:14:13 UTC] PHP   3. sortData($data = NULL) /Users/pawel/www/haz25/content.php:67
+[16-Nov-2024 12:14:13 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /Users/pawel/www/haz25/content.php:215
+Stack trace:
+#0 /Users/pawel/www/haz25/index.php(15): include()
+#1 {main}
+  thrown in /Users/pawel/www/haz25/content.php on line 215
+[16-Nov-2024 12:15:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "eixt" in /Users/pawel/www/haz25/config.php:3
+Stack trace:
+#0 /Users/pawel/www/haz25/index.php(2): include()
+#1 {main}
+  thrown in /Users/pawel/www/haz25/config.php on line 3
+[16-Nov-2024 12:15:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "eixt" in /Users/pawel/www/haz25/config.php:3
+Stack trace:
+#0 /Users/pawel/www/haz25/index.php(2): include()
+#1 {main}
+  thrown in /Users/pawel/www/haz25/config.php on line 3
+[16-Nov-2024 12:15:25 UTC] PHP Warning:  Undefined variable $spreadsheetId in /Users/pawel/www/haz25/index.php on line 5
+[16-Nov-2024 12:15:25 UTC] PHP Stack trace:
+[16-Nov-2024 12:15:25 UTC] PHP   1. {main}() /Users/pawel/www/haz25/index.php:0
+[16-Nov-2024 12:15:25 UTC] PHP   2. getDataRaw() /Users/pawel/www/haz25/index.php:14
+[16-Nov-2024 12:15:25 UTC] PHP Warning:  Undefined variable $apiKey in /Users/pawel/www/haz25/index.php on line 6
+[16-Nov-2024 12:15:25 UTC] PHP Stack trace:
+[16-Nov-2024 12:15:25 UTC] PHP   1. {main}() /Users/pawel/www/haz25/index.php:0
+[16-Nov-2024 12:15:25 UTC] PHP   2. getDataRaw() /Users/pawel/www/haz25/index.php:14
+[16-Nov-2024 12:15:26 UTC] PHP Warning:  Undefined property: stdClass::$values in /Users/pawel/www/haz25/index.php on line 14
+[16-Nov-2024 12:15:26 UTC] PHP Stack trace:
+[16-Nov-2024 12:15:26 UTC] PHP   1. {main}() /Users/pawel/www/haz25/index.php:0
+[16-Nov-2024 12:15:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/pawel/www/haz25/content.php on line 11
+[16-Nov-2024 12:15:26 UTC] PHP Stack trace:
+[16-Nov-2024 12:15:26 UTC] PHP   1. {main}() /Users/pawel/www/haz25/index.php:0
+[16-Nov-2024 12:15:26 UTC] PHP   2. include() /Users/pawel/www/haz25/index.php:15
+[16-Nov-2024 12:15:26 UTC] PHP   3. sortData($data = NULL) /Users/pawel/www/haz25/content.php:67
+[16-Nov-2024 12:15:26 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /Users/pawel/www/haz25/content.php:215
+Stack trace:
+#0 /Users/pawel/www/haz25/index.php(15): include()
+#1 {main}
+  thrown in /Users/pawel/www/haz25/content.php on line 215
